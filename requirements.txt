@@ -1,0 +1,10 @@
+# my requirements
+setuptools
+pathlib
+typing
+sys
+numpy
+pandas
+mathplotlib
+seaborn
+scikit-learn
