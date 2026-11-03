@@ -8,3 +8,6 @@ pandas
 mathplotlib
 seaborn
 scikit-learn
+pymongo[srv]==3.12
+pymongo
+certifi
